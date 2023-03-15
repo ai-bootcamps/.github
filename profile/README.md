@@ -1,4 +1,4 @@
 #AI Bootcamps
 
-Boostrap your AI skills.
+Bootstrap your AI skills.
 
